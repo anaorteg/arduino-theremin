@@ -23,6 +23,6 @@ Contributing
 1. Go to the [Arduino Theremin Git-Hub Repository](https://github.com/SpinStabilized/arduino-theremin).
 2. Fork it.
 3. Create a branch (`git checkout -b my_arduino_theremin`)
-4. Commit your changes (`git commit -am "Added Snarkdown"`)
+4. Commit your changes (`git commit -am "Added Super Waveform"`)
 5. Push to the branch (`git push origin my_arduino_theremin`)
 6. Create an [Issue](https://github.com/SpinStabilized/arduino-theremin/issues) with a link to your branch

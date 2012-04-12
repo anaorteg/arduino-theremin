@@ -7,7 +7,6 @@ Desktop="Desktop"
 
 [Globals]
 AutoSaveProject=1
-UsedLibrary="/Applications/EAGLE-6.0.0/lbr/SparkFun.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/19inch.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/40xx.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/41xx.lbr"
@@ -332,12 +331,6 @@ UsedLibrary="/Applications/EAGLE/lbr/zetex.lbr"
 UsedLibrary="/Applications/EAGLE/lbr/zilog.lbr"
 
 [Win_1]
-Type="Control Panel"
-Loc="141 132 740 531"
-State=2
-Number=0
-
-[Win_2]
 Type="Board Editor"
 Loc="480 338 1079 737"
 State=2
@@ -376,9 +369,9 @@ AddLevel=2
 PadsSameType=0
 Layer=16
 
-[Win_3]
+[Win_2]
 Type="Schematic Editor"
-Loc="698 223 1713 1000"
+Loc="698 205 1713 982"
 State=2
 Number=1
 File="theremin-oscillator.sch"
@@ -414,10 +407,17 @@ ArcDirection=0
 AddLevel=2
 PadsSameType=0
 Layer=91
+Views=" 1: -16.256 -14.986 168.656 103.886"
 Sheet=1
 
+[Win_3]
+Type="Control Panel"
+Loc="176 204 775 603"
+State=2
+Number=0
+
 [Desktop]
-Screen="3360 1200"
+Screen="1920 1080"
 Window="Win_1"
 Window="Win_2"
 Window="Win_3"
