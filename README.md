@@ -20,9 +20,9 @@ Additionally, I am looking at using a low-pass filter and DDS technique based on
 Contributing
 ------------
 
-1. Go to the [Arduino Theremin Git-Hub Repository](https://github.com/SpinStabilized/arduino-theremin).
+1. Go to the [GeekDad Arduino Theremin Git-Hub Repository](https://github.com/WiredGeekDad/arduino-theremin).
 2. Fork it.
 3. Create a branch (`git checkout -b my_arduino_theremin`)
 4. Commit your changes (`git commit -am "Added Super Waveform"`)
 5. Push to the branch (`git push origin my_arduino_theremin`)
-6. Create an [Issue](https://github.com/SpinStabilized/arduino-theremin/issues) with a link to your branch
+6. Create an [Issue](https://github.com/WiredGeekDad/arduino-theremin/issues) with a link to your branch
